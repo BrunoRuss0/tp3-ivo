@@ -1,0 +1,16 @@
+.maincontainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .card{
+    background-color: rgb(204, 0, 255);
+    width: 20%;
+    height: 35%;
+    aspect-ratio: 1/1;
+    padding: 10px;
+    border-radius: 15px;
+    border: 2px solid rgb(0, 140, 255);
+  }
